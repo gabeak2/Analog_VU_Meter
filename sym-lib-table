@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name vu_meter)(type Legacy)(uri ${KIPRJMOD}/vu_meter/vu_meter.lib)(options "")(descr ""))
+)
